@@ -15,4 +15,4 @@ This is the code of the implementation of the NeFour.
 If you have any questions, please contact us (chikaichen@mail.nwpu.edu.cn).
 
 # Acknowledgments
-Code is implemented based on https://li-chongyi.github.io/UHDFou.
+Code is implemented based on https://li-chongyi.github.io/UHDFour.
