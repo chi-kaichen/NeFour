@@ -5,9 +5,8 @@ Neural Implicit Fourier Transform for Remote Sensing Shadow Removal.
 This is the code of the implementation of the NeFour.
 
 # Training
-1. Put the training data to corresponding folders (hazy image to ./data/train_data/input, GT to ./data/train_data/target)
-2. Hyperparameter (./Enh_opt)
-3. Python Enh_train.py
+1. Hyperparameter (.src/train.py)
+3. Python train.py
 
 # Testing
 1. Put the testing data to corresponding folders (hazy image to ./data/test_data/input, GT to ./data/test_data/target, GT for full-reference evaluation, such as PSNR and SSIM)
