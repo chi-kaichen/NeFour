@@ -4,9 +4,6 @@ Neural Implicit Fourier Transform for Remote Sensing Shadow Removal.
 
 This is the code of the implementation of the NeFour.
 
-# Requirement
-ubuntu, torch==1.8.1+cu111, torchvision==0.9.1+cu111, tensorboardX==2.5.1.
-
 # Training
 1. Put the training data to corresponding folders (hazy image to ./data/train_data/input, GT to ./data/train_data/target)
 2. Hyperparameter (./Enh_opt)
