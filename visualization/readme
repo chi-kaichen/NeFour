@@ -1,3 +1,5 @@
 Error Map: error_map.py
 Heat Map: heat_map.m
 t-SNE: t-SNE.py
+
+Gradient Map: gradient_map.m
